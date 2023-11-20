@@ -15,7 +15,7 @@
 - plaatsen van product lukte verder.
 
 ## Test 2 (Gamer)
-### Zoek een bepaald product en bekijk de datils en ligging ervan (klant)
+### Zoek een bepaald product en bekijk de details en ligging ervan (klant)
 #### Te zoeken product: NZXT H510
 - ging ook eerst naar afdeling en vond het product makkelijk terug
 - Via producten pagina search button gebruikt en snel gevonden
