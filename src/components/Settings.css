@@ -1,0 +1,56 @@
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+body {
+    margin: 0;
+    min-height: 100%;
+    width: 100%;
+}
+
+.settings{
+    margin: 1em;
+}
+
+.colorpickers{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.colorPicker{
+    margin: 1em;
+}
+
+.message{
+    text-align: center;
+}
+
+#dark .message{
+    color: #f3ebf6;
+}
+
+#dark body {
+    background-color: #404258;
+}
+
+#light body {
+    background-color: #f3ebf6;
+}
+
+#dark .g {
+    background-color: #404258;
+}
+
+#dark .themeSwitch{
+    color: #f3ebf6;
+}
+
+#dark .h2dark{
+    color: #f3ebf6;
+}
+
+#dark .fcl{
+    color: #f3ebf6;
+}

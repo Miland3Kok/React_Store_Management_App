@@ -1,0 +1,21 @@
+.grondplan{
+    position: relative;
+    width     : 100%;
+    height    : 100%;
+    text-align: center;
+}
+
+.position{
+    cursor: pointer;
+}
+
+#dark body{
+    background-color: #404258;
+}
+
+#dark .grondplan{
+    background-color: #404258;
+}
+#dark .g{
+    background-color: #404258;
+}

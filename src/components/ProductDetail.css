@@ -1,0 +1,40 @@
+.product-detail{
+    margin-top: 1rem;
+}
+
+.imgcenter{
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.imgdetail{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    height: auto;
+}
+
+.detail_info{
+    margin: 2rem;
+}
+
+#dark .product-detail{
+    background-color: #404258;
+    color: #f3ebf6;
+}
+
+#light .product-detail{
+    background-color: #f3ebf6;
+    color: #404258;
+}
+#dark .paper {
+    background-color: #404258;
+    color: #f3ebf6;
+}
+
+#light .paper {
+    background-color: #f3ebf6;
+}
+

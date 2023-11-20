@@ -1,0 +1,890 @@
+{
+  "afdelingen": [
+    {
+      "id": 1,
+      "name": "GPU's",
+      "image": "https://cdn1.dotesports.com/wp-content/uploads/2022/10/03110708/4090-768x403.jpg"
+    },
+    {
+      "id": 2,
+      "name": "CPU's",
+      "image": "https://image.coolblue.be/max/500x500/products/1664632"
+    },
+    {
+      "id": 3,
+      "name": "Cases",
+      "image": "https://media.s-bol.com/jjmyNL5Poxl/550x578.jpg"
+    },
+    {
+      "id": 4,
+      "name": "RAM",
+      "image": "https://image.coolblue.be/600x315/products/1362221"
+    }
+  ],
+  "grondplannen": [
+    {
+      "id": 1,
+      "positions": [
+        {
+          "id": 1,
+          "width": 200,
+          "height": 200,
+          "left": 0,
+          "top": 0
+        },
+        {
+          "id": 2,
+          "width": 600,
+          "height": 200,
+          "left": 200,
+          "top": 0
+        },
+        {
+          "id": 3,
+          "width": 400,
+          "height": 200,
+          "left": 800,
+          "top": 0
+        },
+        {
+          "id": 4,
+          "width": 600,
+          "height": 200,
+          "left": 0,
+          "top": 400
+        },
+        {
+          "id": 5,
+          "width": 200,
+          "height": 200,
+          "left": 600,
+          "top": 400
+        },
+        {
+          "id": 6,
+          "width": 200,
+          "height": 200,
+          "left": 800,
+          "top": 400
+        },
+        {
+          "id": 7,
+          "width": 200,
+          "height": 200,
+          "left": 1000,
+          "top": 400
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "positions": [
+        {
+          "id": 8,
+          "width": 200,
+          "height": 200,
+          "left": 0,
+          "top": 0
+        },
+        {
+          "id": 9,
+          "width": 600,
+          "height": 200,
+          "left": 200,
+          "top": 0
+        },
+        {
+          "id": 10,
+          "width": 400,
+          "height": 200,
+          "left": 800,
+          "top": 0
+        },
+        {
+          "id": 11,
+          "width": 600,
+          "height": 200,
+          "left": 0,
+          "top": 400
+        },
+        {
+          "id": 12,
+          "width": 200,
+          "height": 200,
+          "left": 600,
+          "top": 400
+        },
+        {
+          "id": 13,
+          "width": 400,
+          "height": 200,
+          "left": 800,
+          "top": 400
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "positions": [
+        {
+          "id": 14,
+          "width": 340,
+          "height": 200,
+          "left": 0,
+          "top": 0
+        },
+        {
+          "id": 15,
+          "width": 260,
+          "height": 200,
+          "left": 340,
+          "top": 0
+        },
+        {
+          "id": 16,
+          "width": 300,
+          "height": 200,
+          "left": 600,
+          "top": 0
+        },
+        {
+          "id": 17,
+          "width": 400,
+          "height": 200,
+          "left": 900,
+          "top": 0
+        },
+        {
+          "id": 18,
+          "width": 600,
+          "height": 200,
+          "left": 0,
+          "top": 400
+        },
+        {
+          "id": 19,
+          "width": 400,
+          "height": 200,
+          "left": 600,
+          "top": 400
+        },
+        {
+          "id": 20,
+          "width": 300,
+          "height": 200,
+          "left": 1000,
+          "top": 400
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "positions": [
+        {
+          "id": 21,
+          "width": 1000,
+          "height": 200,
+          "left": 0,
+          "top": 0
+        },
+        {
+          "id": 22,
+          "width": 200,
+          "height": 200,
+          "left": 1000,
+          "top": 0
+        },
+        {
+          "id": 23,
+          "width": 500,
+          "height": 200,
+          "left": 0,
+          "top": 400
+        },
+        {
+          "id": 24,
+          "width": 700,
+          "height": 200,
+          "left": 500,
+          "top": 400
+        }
+      ]
+    }
+  ],
+  "producten": [
+    {
+      "id": 1,
+      "name": "RTX 3090",
+      "image": "https://www.alternate.be/p/o/1/5/MSI_GeForce_RTX_3090_Ti_GAMING_X_TRIO_24G_grafische_kaart@@1814351_30.jpg",
+      "price": 1000,
+      "afdeling_id": 1,
+      "afdeling_naam": "GPU's",
+      "omschrijving": "De GeForce RTX 3090 levert de topprestaties waar gamers naar verlangen, aangedreven door Ampere-NVIDIA's 2e generatie RTX-architectuur. Het is gebouwd met verbeterde RT Cores en Tensor Cores, nieuwe streaming multiprocessors en supersnel G6X-geheugen voor een geweldige game-ervaring.",
+      "promo": false,
+      "voorraad": 1,
+      "min_voorraad": 2
+    },
+    {
+      "id": 2,
+      "name": "RTX 3080",
+      "image": "https://www.alternate.be/p/o/9/1/MSI_GeForce_RTX_3080_GAMING_Z_TRIO_10G_grafische_kaart@@1758119_30.jpg",
+      "price": 800,
+      "afdeling_id": 1,
+      "afdeling_naam": "GPU's",
+      "omschrijving": "De GeForce RTX 3080 GAMING Z TRIO 10G grafische kaart van MSI is gebaseerd op de NVIDIA GeForce RTX 3080 Chip en beschikt over 10 GB GDDR6X Geheugen dat via een 320 bit brede interface aangesproken wordt. De GPU heeft een boostsnelheid van 1830 MHz en het geheugen een snelheid van 19000 MHz.",
+      "promo": false,
+      "voorraad": 15,
+      "min_voorraad": 4
+    },
+    {
+      "id": 3,
+      "name": "RTX 3070",
+      "image": "https://www.alternate.be/p/o/0/2/GIGABYTE_GeForce_RTX_3070_GAMING_OC_8G_grafische_kaart@@1765420.jpg",
+      "price": 600,
+      "afdeling_id": 1,
+      "afdeling_naam": "GPU's",
+      "omschrijving": "De GeForce RTX 3070 GAMING OC 8G van GIGABYTE is gebaseerd op de NVIDIA GeForce RTX 3070 Chip en beschikt over 8 GB GDDR6X geheugen dat via een 256 bit brede interface aangesproken wordt. De GPU heeft een snelheid van 1815 MHz en het geheugen heeft een snelheid van 14000 MHz.",
+      "promo": false,
+      "voorraad": 25,
+      "min_voorraad": 5
+    },
+    {
+      "id": 4,
+      "name": "RTX 3060",
+      "image": "https://www.alternate.be/p/o/2/2/MSI_GeForce_RTX_3060_VENTUS_2X_12G_OC_grafische_kaart@@1719422_30.jpg",
+      "price": 400,
+      "afdeling_id": 1,
+      "afdeling_naam": "GPU's",
+      "omschrijving": "De MSI GeForce RTX 3060 VENTUS 2X 12G OC is gebaseerd op de NVIDIA GeForce RTX 3060 Chip en beschikt over 12 GB GDDR6 geheugen dat via een 192 bit brede interface aangesproken wordt. De GPU heeft een boostsnelheid van 1807 MHz, het geheugen heeft een snelheid van 15000 MHz.",
+      "promo": false,
+      "voorraad": 30,
+      "min_voorraad": 6
+    },
+    {
+      "id": 5,
+      "name": "RTX 3050",
+      "image": "https://www.alternate.be/p/o/0/7/ASUS_TUF_Gaming_GeForce_RTX_3050_OC_Edition_grafische_kaart@@1854770_30.jpg",
+      "price": 200,
+      "afdeling_id": 1,
+      "afdeling_naam": "GPU's",
+      "omschrijving": "De ASUS TUF Gaming GeForce RTX 3050 OC Edition is een grafische kaart gebaseerd op de NVIDIA GeForce RTX 3050 Chip en beschikt over 8 GB GDDR6 geheugen dat via een 128 bit brede interface aangesproken wordt. De GPU heeft een boostsnelheid (gaming) van 1845 MHz, een boostsnelheid (OC) van 1875 MHz en het geheugen heeft een snelheid van 14000 MHz.",
+      "promo": true,
+      "voorraad": 20,
+      "min_voorraad": 4
+    },
+    {
+      "id": 6,
+      "name": "RTX 4090",
+      "image": "https://www.alternate.be/p/o/0/4/ASUS_ROG_Strix_GeForce_RTX_4090_OC_Edition_24GB_GDDR6X_grafische_kaart@@1870140.jpg",
+      "price": 2000,
+      "afdeling_id": 1,
+      "afdeling_naam": "GPU's",
+      "omschrijving": "De ASUS ROG Strix GeForce RTX 4090 OC Edition 24GB GDDR6X brengt een prestatiegericht ontwerp dat de essentie behoudt om elke taak uit te voeren. De Axial-tech fans in een stevig ontwerp zorgen ervoor dat deze scherp uitziende grafische kaart in elke constructie past.\n\n De GeForce RTX 4090 levert de topprestaties waar gamers naar verlangen, aangedreven door NVIDIA's Ada Lovelace RTX-architectuur. Het is gebouwd met verbeterde 3e generatie RT Cores en 4e generatie Tensor Cores, nieuwe streaming multiprocessors en supersnel GDDR6X-geheugen voor een geweldige game-ervaring.",
+      "promo": false,
+      "voorraad": 0,
+      "min_voorraad": 0
+    },
+    {
+      "id": 7,
+      "name": "RTX 2060",
+      "image": "https://www.alternate.be/p/o/8/7/MSI_GeForce_RTX_2060_VENTUS_GP_OC_grafische_kaart@@1736478.jpg",
+      "price": 800,
+      "afdeling_id": 1,
+      "afdeling_naam": "GPU's",
+      "omschrijving": "De MSI GeForce RTX 2060 VENTUS GP OC is gebaseerd op de NVIDIA GeForce RTX 2060 Chip en beschikt over 6 GB GDDR6 geheugen dat via een 192 bit brede interface aangesproken wordt. De GPU heeft een boostsnelheid van 1710 MHz en het geheugen heeft een snelheid van 14000 MHz.",
+      "promo": true,
+      "voorraad": 23,
+      "min_voorraad": 6
+    },
+    {
+      "id": 8,
+      "name": "AMD Ryzen 5 5600G",
+      "image": "https://www.alternate.be/p/o/4/7/AMD_Ryzen_5_5600G__3_9_GHz__4_4_GHz_Turbo_Boost__socket_AM4_processor@@1758474.jpg",
+      "price": 179.9,
+      "afdeling_id": 2,
+      "afdeling_naam": "CPU's",
+      "omschrijving": "De AMD Ryzen 5 5600G is een processor met 6 cores en 12 threads. De processor heeft een kloksnelheid van 3.9 GHz en een turbo boost van 4.4 GHz. De processor heeft een TDP van 65 Watt en is geschikt voor socket AM4 moederborden.",
+      "promo": true,
+      "voorraad": 32,
+      "min_voorraad": 4
+    },
+    {
+      "id": 9,
+      "name": "AMD Ryzen 7 7700X",
+      "image": "https://www.alternate.be/p/o/2/2/AMD_Ryzen_7_7700X__4_5_GHz__5_4_GHz_Turbo_Boost__socket_AM5_processor@@1861522.jpg",
+      "price": 479,
+      "afdeling_id": 2,
+      "afdeling_naam": "CPU's",
+      "omschrijving": "De AMD Ryzen 7 7700X is een processor met 8 cores en 16 threads. De processor heeft een kloksnelheid van 4.5 GHz en een turbo boost van 5.4 GHz. De processor heeft een TDP van 95 Watt en is geschikt voor socket AM5 moederborden.",
+      "promo": false,
+      "voorraad": 40,
+      "min_voorraad": 10
+    },
+    {
+      "id": 10,
+      "name": "AMD Ryzen 7 7600X",
+      "image": "https://www.alternate.be/p/o/2/2/AMD_Ryzen_7_7700X__4_5_GHz__5_4_GHz_Turbo_Boost__socket_AM5_processor@@1861522.jpg",
+      "price": 369,
+      "afdeling_id": 2,
+      "afdeling_naam": "CPU's",
+      "omschrijving": "De AMD Ryzen 7 7600X is een processor met 8 cores en 16 threads. De processor heeft een kloksnelheid van 4.7 GHz en een turbo boost van 5.3 GHz. De processor heeft een TDP van 95 Watt en is geschikt voor socket AM5 moederborden.",
+      "promo": false,
+      "voorraad": 5,
+      "min_voorraad": 5
+    },
+    {
+      "id": 11,
+      "name": "Intel Core i5-13600KF",
+      "image": "https://www.alternate.be/p/o/1/0/Intel__Core_i5_13600KF__3_5_GHz__5_1_GHz_Turbo_Boost__socket_1700_processor@@1865201.jpg",
+      "price": 389,
+      "afdeling_id": 2,
+      "afdeling_naam": "CPU's",
+      "omschrijving": "De Intel Core i5-13600KF is een processor met 6 cores en 12 threads. De processor heeft een kloksnelheid van 3.5 GHz en een turbo boost van 5.1 GHz. De processor heeft een TDP van 125 Watt en is geschikt voor socket 1700 moederborden.",
+      "promo": false,
+      "voorraad": 29,
+      "min_voorraad": 4
+    },
+    {
+      "id": 12,
+      "name": "Intel Core i9-13900K",
+      "image": "https://www.alternate.be/p/o/7/7/Intel__Core_i9_13900K__3_0_GHz__5_8_GHz_Turbo_Boost__socket_1700_processor@@1865277.jpg",
+      "price": 779,
+      "afdeling_id": 2,
+      "afdeling_naam": "CPU's",
+      "omschrijving": "De Intel Core i9-13900K is een processor met 8 cores en 16 threads. De processor heeft een kloksnelheid van 3.0 GHz en een turbo boost van 5.8 GHz. De processor heeft een TDP van 125 Watt en is geschikt voor socket 1700 moederborden.",
+      "promo": false,
+      "voorraad": 48,
+      "min_voorraad": 12
+    },
+    {
+      "id": 13,
+      "name": "Intel Core i9-12900K",
+      "image": "https://www.alternate.be/p/o/8/6/Intel__Core_i9_12900K__3_2_GHz__5_1_GHz_Turbo_Boost__socket_1700_processor@@1778368.jpg",
+      "price": 618,
+      "afdeling_id": 2,
+      "afdeling_naam": "CPU's",
+      "omschrijving": "De Intel Core i9-12900K is een processor met 8 cores en 16 threads. De processor heeft een kloksnelheid van 3.3 GHz en een turbo boost van 5.3 GHz. De processor heeft een TDP van 125 Watt en is geschikt voor socket 1700 moederborden.",
+      "promo": false,
+      "voorraad": 5,
+      "min_voorraad": 0
+    },
+    {
+      "id": 14,
+      "name": "NZXT H510",
+      "image": "https://www.alternate.be/p/o/2/5/NZXT_H510_tower_behuizing@@1544552.jpg",
+      "price": 89.9,
+      "afdeling_id": 3,
+      "afdeling_naam": "Cases",
+      "omschrijving": "De NZXT H510 is een compacte ATX tower behuizing met een strak design. De behuizing is voorzien van een zijpaneel van gehard glas en een RGB LED strip. De behuizing is geschikt voor moederborden met een ATX, Micro-ATX of Mini-ITX formaat.",
+      "promo": false,
+      "voorraad": 40,
+      "min_voorraad": 8
+    },
+    {
+      "id": 15,
+      "name": "Lian Li O11 Dynamic",
+      "image": "https://www.alternate.be/p/o/6/5/Lian_Li_O11_Dynamic_tower_behuizing@@1710556_30.jpg",
+      "price": 179.9,
+      "afdeling_id": 3,
+      "afdeling_naam": "Cases",
+      "omschrijving": "De O11 Dynamic is een combinatie van modern design en kunst en dat is waar de Lian Li O11 Dynamic serie voor staat. Een moderne behuizing met voldoende plaats voor de beste configuratie. De O11 Dynamic behuizing ondersteunt mini-ITX, micro-ATX, ATX en E-ATX moederbord formaten en tot negen 120mm case fans voor de beste koeling, met de ondersteuning van magnetisch stoffilters, maar het is ook mogelijk om radiatoren te gebruiken tot 360mm. Er is ook ruimte voor twee voedingen met een lengte van 255mm, grafische kaarten met een lengte tot 420mm en CPU-koelers met een maximale hoogte tot 155mm. Alles wordt via het kabel management systeem veilig opgeborgen zodat het er prachtig uitziet door het transparante paneel.",
+      "promo": false,
+      "voorraad": 32,
+      "min_voorraad": 9
+    },
+    {
+      "id": 16,
+      "name": "Corsair ICUE 465X RGB",
+      "image": "https://www.alternate.be/p/o/t/Corsair_iCUE_465X_RGB_tower_behuizing@@tqxv6649.jpg",
+      "price": 139.9,
+      "afdeling_id": 3,
+      "afdeling_naam": "Cases",
+      "omschrijving": "De zwarte Corsair iCUE 465X RGB is een slimme midi-tower ATX-behuizing met een briljant uiterlijk en gehard glas. Drie geïntegreerde Corsair LL120 RGB fans en de iCUE Lighting Node CORE intelligente RGB-verlichtingscontroller combineren met de krachtige iCUE-software voor directe verlichting die volledig configureerbaar is. Tegelijkertijd zorgt het ontwerp van de Direct Airflow Path voor een onbelemmerde luchtstroom naar de componenten. Je kunt maximaal twee 3,5-inch HDD's en vier 2,5-inch SSD's installeren voor voldoende opslagruimte, waardoor het systeem netjes en opgeruimd blijft dankzij geïntegreerd, intuïtief kabelbeheer en drie verwijderbare stoffilters.",
+      "promo": false,
+      "voorraad": 21,
+      "min_voorraad": 2
+    },
+    {
+      "id": 17,
+      "name": "Corsair 4000D",
+      "image": "https://www.alternate.be/p/o/t/Corsair_4000D_AIRFLOW_Tempered_Glass_tower_behuizing@@tqxv6664.jpg",
+      "price": 114.9,
+      "afdeling_id": 3,
+      "afdeling_naam": "Cases",
+      "omschrijving": "De zwarte Corsair 4000D AIRFLOW Tempered Glass is een karakteristieke behuizing met een uitzonderlijke koeling. Het duurzaam en massief stalen frontpaneel, voorzien van een modern front-I/O-paneel inclusief een USB-C-poort en de speciale ventilatiekanalen bieden samen een geweldige uitstraling en luchtstroom, wat gecombineerd met de twee meegeleverde 120 mm AirGuide fans, de koeling verbeteren. De behuizing biedt verder voldoende ruimte voor extra koeling, zoals extra 120 mm of 140 mm fans of radiatoren tot 360 mm en vier opbergruimtes voor opslag. Daarnaast maakt het CORSAIR RapidRoute-kabel managementsysteem het mogelijk om belangrijke kabels moeiteloos door één enkel kanaal te leiden, zodat het karakteristieke uiterlijk van de behuizing altijd behouden blijft.",
+      "promo": false,
+      "voorraad": 26,
+      "min_voorraad": 4
+    },
+    {
+      "id": 18,
+      "name": "Corsair 275R",
+      "image": "https://www.alternate.be/p/o/t/Corsair_275R_Airflow_tower_behuizing@@tqxv6652_30.jpg",
+      "price": 129.9,
+      "afdeling_id": 3,
+      "afdeling_naam": "Cases",
+      "omschrijving": "De zwarte Corsair 275R Airflow is een midi-tower behuizing dat een modern design koppelt aan een maximale luchtstroom, dankzij een frontpaneel met gaten patroon en een zijkant van gehard glas.\nDe behuizing heeft plaats voor een ATX voeding, twee interne 3,5 inch en vier interne 2,5 inch inbouwsloten en zeven Full Size slotopeningen. Ook is er plaats voor grafische kaarten met een lengte tot 370 mm en CPU-koelers met een maximale hoogte tot 170 mm. De Corsair 275R Airflow wordt geleverd met drie 120 mm fans en biedt plaats aan drie extra fans. Alle geplaatste hardware ziet er opgeruimd uit door de eenvoudige, intuïtieve kabelgeleiding en is ook prachtig om te bekijken en te tonen via de zijkant van gehard glas.",
+      "promo": false,
+      "voorraad": 40,
+      "min_voorraad": 10
+    },
+    {
+      "id": 19,
+      "name": "Sharkoon TG6 RGB",
+      "image": "https://www.alternate.be/p/o/t/Sharkoon_TG6_RGB_tower_behuizing@@tqxsm40.jpg",
+      "price": 89.9,
+      "afdeling_id": 3,
+      "afdeling_naam": "Cases",
+      "omschrijving": "Voor hardware die niet bedoeld is om te worden verborgen, hebben we de TG6 RGB ontworpen en ontwikkeld. Deze midi ATX-behuizing beschikt over meer dan genoeg ruimte voor hardware en biedt een uitzonderlijk podium om deze te presenteren. Het frontpaneel en de zijpanelen van gehard glas bieden een bijna volledig onbelemmerde blik op de binnenkant van de behuizing, terwijl alleen de voeding, HDD’s en bekabeling uit het zicht worden gehouden. Elk van de vier voorgeïnstalleerde, adresseerbare 120 mm RGB-fans is uitgerust met drie rijen omringende leds. Deze zorgen voor traploze verlichtingseffecten binnen het gehele RGB-spectrum en verlichten de geïnstalleerde hardware optimaal. Wie de voorkeur heeft voor waterkoeling vindt er hier de ideale ruimte voor, plus een praktische fantray achter het frontpaneel.",
+      "promo": true,
+      "voorraad": 10,
+      "min_voorraad": 1
+    },
+    {
+      "id": 20,
+      "name": "Sharkoon SK3 RGB",
+      "image": "https://www.alternate.be/p/o/4/6/Sharkoon_SK3_RGB_tower_behuizing@@1630664.jpg",
+      "price": 54.9,
+      "afdeling_id": 3,
+      "afdeling_naam": "Cases",
+      "omschrijving": "De Sharkoon SK3 RGB is een visueel bescheiden midi-ATX-behuizing die optimaal kan worden geïntegreerd in minimalistische configuraties. Toch bevat het visueel aantrekkelijke accenten met een duidelijke en verzorgde vormgeving en een voorpaneel met een carbon fiber look. De behuizing heeft ook een zijpaneel van gehard glas. Hierdoor kun je de binnenkant zien, die is verlicht door een voor geïnstalleerde RGB-ledfan van 120 mm.",
+      "promo": true,
+      "voorraad": 10,
+      "min_voorraad": 2
+    },
+    {
+      "id": 21,
+      "name": "Corsair 16 GB DDR4",
+      "image": "https://www.alternate.be/p/o/i/Corsair_16_GB_DDR4_3600_Kit_werkgeheugen@@ieig5z24.jpg",
+      "price": 65.9,
+      "afdeling_id": 4,
+      "afdeling_naam": "RAM",
+      "omschrijving": "De zwarte Corsair Vengeance LPX 16 GB DDR4 3600 Kit is een werkgeheugen kit met een capaciteit van 16 GB. De kit bestaat uit twee 8 GB DDR4 DIMM modules met een snelheid van 3600 MHz en een CAS latency van 18-22-22-42. De modules hebben een voltage van 1,35 V en zijn voorzien van een zwarte aluminium heatsink. De modules zijn geschikt voor Intel en AMD platformen en zijn compatibel met Intel XMP 2.0 en AMD Ryzen.",
+      "promo": false,
+      "voorraad": 50,
+      "min_voorraad": 20
+    },
+    {
+      "id": 22,
+      "name": "Corsair 32GB DDR5",
+      "image": "https://www.alternate.be/p/o/9/1/Corsair_32_GB_DDR5_5600_Kit_werkgeheugen@@1855919_30.jpg",
+      "price": 269,
+      "afdeling_id": 4,
+      "afdeling_naam": "RAM",
+      "omschrijving": "De zwarte Corsair Vengeance LPX 32 GB DDR5 5600 Kit is een werkgeheugen kit met een capaciteit van 32 GB. De kit bestaat uit twee 16 GB DDR5 DIMM modules met een snelheid van 5600 MHz en een CAS latency van 19-19-19-39. De modules hebben een voltage van 1,35 V en zijn voorzien van een zwarte aluminium heatsink. De modules zijn geschikt voor Intel en AMD platformen en zijn compatibel met Intel XMP 2.0 en AMD Ryzen.",
+      "promo": false,
+      "voorraad": 53,
+      "min_voorraad": 20
+    },
+    {
+      "id": 23,
+      "name": "Kingston 32GB DDR4",
+      "image": "https://www.alternate.be/p/o/9/9/Kingston_FURY_32_GB_DDR4_3200_Kit_werkgeheugen@@1765499.jpg",
+      "price": 122,
+      "afdeling_id": 4,
+      "afdeling_naam": "RAM",
+      "omschrijving": "De zwarte Kingston FURY 32 GB DDR4 3200 Kit is een werkgeheugen kit met een capaciteit van 32 GB. De kit bestaat uit twee 16 GB DDR4 DIMM modules met een snelheid van 3200 MHz en een CAS latency van 16-18-18-36. De modules hebben een voltage van 1,35 V en zijn voorzien van een zwarte aluminium heatsink. De modules zijn geschikt voor Intel en AMD platformen en zijn compatibel met Intel XMP 2.0 en AMD Ryzen.",
+      "promo": false,
+      "voorraad": 33,
+      "min_voorraad": 6
+    },
+    {
+      "id": 24,
+      "name": "G.Skill 32GB DDR4",
+      "image": "https://www.alternate.be/p/o/i/G_Skill_32_GB_DDR4_3200_kit_werkgeheugen@@ifiggu2q.jpg",
+      "price": 140,
+      "afdeling_id": 4,
+      "afdeling_naam": "RAM",
+      "omschrijving": "De zwarte G.Skill Trident Z RGB 32 GB DDR4 3200 Kit is een werkgeheugen kit met een capaciteit van 32 GB. De kit bestaat uit twee 16 GB DDR4 DIMM modules met een snelheid van 3200 MHz en een CAS latency van 16-18-18-36. De modules hebben een voltage van 1,35 V en zijn voorzien van een zwarte aluminium heatsink. De modules zijn geschikt voor Intel en AMD platformen en zijn compatibel met Intel XMP 2.0 en AMD Ryzen.",
+      "promo": false,
+      "voorraad": 63,
+      "min_voorraad": 25
+    }
+  ],
+  "eigenschappen": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "eigenschap": "Nvidia",
+      "waarde": "Ampere-NVIDIA"
+    },
+    {
+      "id": 2,
+      "product_id": 1,
+      "eigenschap": "Geheugen",
+      "waarde": "G6X"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 5,
+      "product_id": 2,
+      "eigenschap": "Aantal DisplayPort",
+      "waarde": "3"
+    },
+    {
+      "id": 6,
+      "product_id": 2,
+      "eigenschap": "Aantal HDMI",
+      "waarde": "1"
+    },
+    {
+      "id": 7,
+      "product_id": 3,
+      "eigenschap": "Geheugen",
+      "waarde": "8GB"
+    },
+    {
+      "id": 8,
+      "product_id": 3,
+      "eigenschap": "Aantal DisplayPort",
+      "waarde": "3"
+    },
+    {
+      "id": 9,
+      "product_id": 3,
+      "eigenschap": "Aantal HDMI",
+      "waarde": "1"
+    },
+    {
+      "id": 10,
+      "product_id": 4,
+      "eigenschap": "Aantal HDMI",
+      "waarde": "1"
+    },
+    {
+      "id": 11,
+      "product_id": 4,
+      "eigenschap": "Geheugen",
+      "waarde": "12GB"
+    },
+    {
+      "id": 12,
+      "product_id": 4,
+      "eigenschap": "Snelheid",
+      "waarde": "15000 MHz"
+    },
+    {
+      "id": 13,
+      "product_id": 5,
+      "eigenschap": "Geheugen",
+      "waarde": "12GB"
+    },
+    {
+      "id": 14,
+      "product_id": 5,
+      "eigenschap": "Aantal DisplayPort",
+      "waarde": "3"
+    },
+    {
+      "id": 15,
+      "product_id": 5,
+      "eigenschap": "Aantal HDMI",
+      "waarde": "1"
+    },
+    {
+      "id": 16,
+      "product_id": 6,
+      "eigenschap": "Geheugen",
+      "waarde": "24GB"
+    },
+    {
+      "id": 17,
+      "product_id": 6,
+      "eigenschap": "Aantal DisplayPort",
+      "waarde": "3"
+    },
+    {
+      "id": 18,
+      "product_id": 6,
+      "eigenschap": "Aantal HDMI",
+      "waarde": "1"
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20,
+      "product_id": 7,
+      "eigenschap": "Aantal DisplayPort",
+      "waarde": "3"
+    },
+    {
+      "id": 21,
+      "product_id": 7,
+      "eigenschap": "Aantal HDMI",
+      "waarde": "1"
+    },
+    {
+      "id": 24,
+      "product_id": 8,
+      "eigenschap": "Aantal cores",
+      "waarde": "6"
+    },
+    {
+      "id": 25,
+      "product_id": 9,
+      "eigenschap": "Kloksnelheid",
+      "waarde": "4.5GHz"
+    },
+    {
+      "id": 26,
+      "product_id": 9,
+      "eigenschap": "Turbo Boost",
+      "waarde": "5.4GHz"
+    },
+    {
+      "id": 27,
+      "product_id": 9,
+      "eigenschap": "Aantal cores",
+      "waarde": "8"
+    },
+    {
+      "id": 30,
+      "product_id": 10,
+      "eigenschap": "Aantal cores",
+      "waarde": "8"
+    },
+    {
+      "id": 31,
+      "product_id": 11,
+      "eigenschap": "Kloksnelheid",
+      "waarde": "3.5GHz"
+    },
+    {
+      "id": 32,
+      "product_id": 11,
+      "eigenschap": "Turbo Boost",
+      "waarde": "5.1GHz"
+    },
+    {
+      "id": 33,
+      "product_id": 11,
+      "eigenschap": "Aantal cores",
+      "waarde": "6"
+    },
+    {
+      "id": 34,
+      "product_id": 12,
+      "eigenschap": "Kloksnelheid",
+      "waarde": "3.0GHz"
+    },
+    {
+      "id": 35,
+      "product_id": 12,
+      "eigenschap": "Turbo Boost",
+      "waarde": "5.8GHz"
+    },
+    {
+      "id": 36,
+      "product_id": 12,
+      "eigenschap": "Aantal cores",
+      "waarde": "8"
+    },
+    {
+      "id": 37,
+      "product_id": 13,
+      "eigenschap": "Kloksnelheid",
+      "waarde": "3.3GHz"
+    },
+    {
+      "id": 38,
+      "product_id": 13,
+      "eigenschap": "Turbo Boost",
+      "waarde": "5.3GHz"
+    },
+    {
+      "id": 39,
+      "product_id": 13,
+      "eigenschap": "Aantal cores",
+      "waarde": "8"
+    },
+    {
+      "id": 42,
+      "product_id": 14,
+      "eigenschap": "Aantal 2.5\" bays",
+      "waarde": "3"
+    },
+    {
+      "id": 43,
+      "product_id": 15,
+      "eigenschap": "Formaat",
+      "waarde": "ATX"
+    },
+    {
+      "id": 44,
+      "product_id": 15,
+      "eigenschap": "Aantal 3.5\" bays",
+      "waarde": "2"
+    },
+    {
+      "id": 45,
+      "product_id": 15,
+      "eigenschap": "Aantal 2.5\" bays",
+      "waarde": "3"
+    },
+    {
+      "id": 46,
+      "product_id": 16,
+      "eigenschap": "Formaat",
+      "waarde": "ATX"
+    },
+    {
+      "id": 47,
+      "product_id": 16,
+      "eigenschap": "Aantal 3.5\" bays",
+      "waarde": "2"
+    },
+    {
+      "id": 48,
+      "product_id": 16,
+      "eigenschap": "Aantal 2.5\" bays",
+      "waarde": "3"
+    },
+    {
+      "id": 49,
+      "product_id": 17,
+      "eigenschap": "Formaat",
+      "waarde": "ATX"
+    },
+    {
+      "id": 50,
+      "product_id": 17,
+      "eigenschap": "Aantal 3.5\" bays",
+      "waarde": "2"
+    },
+    {
+      "id": 51,
+      "product_id": 17,
+      "eigenschap": "Aantal 2.5\" bays",
+      "waarde": "3"
+    },
+    {
+      "id": 52,
+      "product_id": 18,
+      "eigenschap": "Formaat",
+      "waarde": "ATX"
+    },
+    {
+      "id": 53,
+      "product_id": 18,
+      "eigenschap": "Aantal 3.5\" bays",
+      "waarde": "2"
+    },
+    {
+      "id": 54,
+      "product_id": 18,
+      "eigenschap": "Aantal 2.5\" bays",
+      "waarde": "3"
+    },
+    {
+      "id": 55,
+      "product_id": 19,
+      "eigenschap": "Formaat",
+      "waarde": "ATX"
+    },
+    {
+      "id": 56,
+      "product_id": 19,
+      "eigenschap": "Aantal 3.5\" bays",
+      "waarde": "2"
+    },
+    {
+      "id": 57,
+      "product_id": 19,
+      "eigenschap": "Aantal 2.5\" bays",
+      "waarde": "3"
+    },
+    {
+      "id": 58,
+      "product_id": 20,
+      "eigenschap": "Formaat",
+      "waarde": "ATX"
+    },
+    {
+      "id": 59,
+      "product_id": 20,
+      "eigenschap": "Aantal 3.5\" bays",
+      "waarde": "2"
+    },
+    {
+      "id": 60,
+      "product_id": 20,
+      "eigenschap": "Aantal 2.5\" bays",
+      "waarde": "3"
+    },
+    {
+      "id": 61,
+      "product_id": 21,
+      "eigenschap": "Type",
+      "waarde": "DDR4"
+    },
+    {
+      "id": 62,
+      "product_id": 21,
+      "eigenschap": "Capaciteit",
+      "waarde": "16 GB"
+    },
+    {
+      "id": 63,
+      "product_id": 21,
+      "eigenschap": "Snelheid",
+      "waarde": "3600 MHz"
+    },
+    {
+      "id": 64,
+      "product_id": 22,
+      "eigenschap": "Type",
+      "waarde": "DDR5"
+    },
+    {
+      "id": 65,
+      "product_id": 22,
+      "eigenschap": "Capaciteit",
+      "waarde": "32 GB"
+    },
+    {
+      "id": 66,
+      "product_id": 22,
+      "eigenschap": "Snelheid",
+      "waarde": "5600 MHz"
+    },
+    {
+      "id": 67,
+      "product_id": 23,
+      "eigenschap": "Type",
+      "waarde": "DDR4"
+    },
+    {
+      "id": 68,
+      "product_id": 23,
+      "eigenschap": "Capaciteit",
+      "waarde": "32 GB"
+    },
+    {
+      "id": 69,
+      "product_id": 23,
+      "eigenschap": "Snelheid",
+      "waarde": "3200 MHz"
+    },
+    {
+      "id": 70,
+      "product_id": 24,
+      "eigenschap": "Type",
+      "waarde": "DDR4"
+    },
+    {
+      "id": 71,
+      "product_id": 24,
+      "eigenschap": "Capaciteit",
+      "waarde": "32 GB"
+    },
+    {
+      "id": 72,
+      "product_id": 24,
+      "eigenschap": "Snelheid",
+      "waarde": "3200 MHz"
+    }
+  ]
+}

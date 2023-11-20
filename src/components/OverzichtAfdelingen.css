@@ -1,0 +1,7 @@
+.tableRow{
+    cursor: pointer;
+}
+
+#dark .tablecell{
+    background-color: #6B728E;
+}

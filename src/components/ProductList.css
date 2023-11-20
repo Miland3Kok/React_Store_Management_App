@@ -1,0 +1,23 @@
+.filter{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 20px;
+}
+#dark .filter{
+    color: #f3ebf6;
+}
+
+.filterButton{
+    vertical-align: bottom;
+    height: 100%
+}
+
+#dark .textfield{
+    background-color: #474E68;
+}
+
+#dark .dataGrid{
+    background-color: #6B728E;
+}

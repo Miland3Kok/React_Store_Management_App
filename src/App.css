@@ -1,0 +1,28 @@
+
+.App {
+    background-color: #404258;
+}
+
+.themeSwitch {
+    margin: 1em;
+}
+
+#dark .showprod{
+    color: #f3ebf6;
+}
+
+#light {
+    background-color: #f3ebf6;
+}
+
+#dark {
+    background-color: #404258;
+}
+
+ #dark .winkelBeheer {
+     color: #f3ebf6;
+ }
+
+ #dark form {
+     background-color: #404258;
+ }
